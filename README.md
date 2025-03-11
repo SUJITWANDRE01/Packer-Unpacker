@@ -1,4 +1,4 @@
-# Marvellous Packer Unpacker
+# Packer Unpacker
 
 A Java application that provides functionality to pack multiple files into a single file and unpack a packed file back into its original form.
 
