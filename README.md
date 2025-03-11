@@ -4,7 +4,7 @@ A Java application that provides functionality to pack multiple files into a sin
 
 ## Overview
 
-Marvellous Packer Unpacker is a file handling utility designed to:
+Packer Unpacker is a file handling utility designed to:
 - **Pack** multiple files from a directory into a single file with custom headers
 - **Unpack** previously packed files back to their original format
 - Provide a simple and intuitive graphical interface for both operations
